@@ -7,11 +7,12 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>DM iFrame</name>
+    <name>Maccapps iFrame Portrait</name>
 
     <description>View web pages in an iFrame</description>
 
-    <icon src="DM-LOGO-128.png" />
+    <icon src="Lofou-128.png" />
+    <platform name="android" />
 
     <!--<gap:platform name="android" />-->
 
